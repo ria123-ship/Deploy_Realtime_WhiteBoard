@@ -33,7 +33,7 @@ Clone the repository:
 bash
 
 Copy code
-git clone https://github.com/AkhileshYadav7007/Deploy_Realtime_WhiteBoard.git
+git clone (https://ria123-ship.github.io/Deploy_Realtime_WhiteBoard/)
 Navigate to the project directory:
 bash
 
